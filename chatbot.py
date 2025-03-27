@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from pypdf2 import PdfReader
+from PyPDF2 import PdfReader
 import openai
 
 # Configure Streamlit with a blue theme
