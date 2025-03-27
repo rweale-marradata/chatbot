@@ -41,7 +41,7 @@ else:
     pdf_texts = []
 
 # Set up OpenAI API (replace with your API key)
-openai.api_key = "your-api-key-here"  # Replace with your actual OpenAI API key
+openai.api_key = "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"  # Replace with your actual OpenAI API key
 
 # Chat interface
 st.title("AI Chatbot")
